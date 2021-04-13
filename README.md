@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benwatkins59
 - 👀 I’m interested in American football
 - 🌱 I’m currently learning how to support my engineering team
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on how to improve my GIT skills
 - 📫 How to reach me ...
 
 <!---
